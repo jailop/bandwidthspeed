@@ -1,0 +1,12 @@
+0.0.2 - Dec. 08, 2023
+
+- server script script shows listening addresses for connections
+- included exit handler to close correctly connections
+
+0.0.3 - 
+
+- C version for server and client
+
+0.0.4 - 2023-12-14
+
+- client.c : include detailed error messages for connect
