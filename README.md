@@ -1,5 +1,7 @@
-                             BANDWIDTH SPEED TESTER
-                             ======================
+BANDWIDTH SPEED TESTER
+======================
+
+![Screenshot](screenshot.png)
 
 To compile:
 
